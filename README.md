@@ -1,1 +1,1 @@
-# java-error
+ i am not good in java so this java code code is genrated by chatgpt \n the issue is i save all img in slider-track div class so  i can animate all img with single div \n  on webpage the first img section is not work with popup animation but rest of 2 are  work good also i tried changing the div class name , giving defferent code for each img div  but non of these work 
